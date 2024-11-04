@@ -7,7 +7,6 @@
   "pronouns" : "he/him",
   "school" : "University of Waterloo",
   "program" : "computer science co-op",
-  "year" : "first year",
   "job-searching" : true,
   "prev-experience" : ["Health Canada, OceanWise"],
   "goal" : "to create software that helps the world"
