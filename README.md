@@ -4,7 +4,6 @@
 ```
 {
   "name" : "Dev Katyal",
-  "pronouns" : "he/him",
   "school" : "University of Waterloo",
   "program" : "computer science co-op",
   "job-searching" : true,
