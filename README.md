@@ -16,10 +16,6 @@
 ```
 
 ### What I'm Up To 
-- 🌱 I’m currently learning various machine learning algorithms in python
-- 👯 I participate in coding challenges and am always open to collaborate on projects
-- 🍣 Fun fact: I love eating sushi!
-
 
 - 🔭 I’m currently working on **EcoPlastic (app that prevents plastic pollution)**
 
