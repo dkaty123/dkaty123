@@ -25,7 +25,7 @@
 
 - 🤝 I’m looking for help with **Scaling apps to 10K users**
 
-- 👨‍💻 All of my projects are available at [https://animated-chebakia-a49f7c.netlify.app/](https://animated-chebakia-a49f7c.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dev-katyal.netlify.app)
 
 - 💬 Ask me about **how to build apps from scratch in Android Studio**
 
