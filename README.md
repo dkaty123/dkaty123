@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **EcoPlastic (app that prevents plastic pollution)**
 
-- 🌱 I’m currently learning **Tailwind CSS and node.js**
+- 🌱 I’m currently learning **React and node.js**
 
 - 👯 I’m looking to collaborate on **Hackathons over the next few months**
 
