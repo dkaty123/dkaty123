@@ -29,8 +29,6 @@
 
 - 💬 Ask me about **how to build apps from scratch in Android Studio**
 
-- 📫 How to reach me **devkatyal01@gmail.com**
-
 - ⚡ Fun fact **I got my pilots licence from being a Royal Canadian Air Cadet for 5 years**
 
 <h3 align="left">Connect with me:</h3>
