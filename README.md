@@ -21,6 +21,8 @@
 ### What I'm Up To 
 
 - 🔭 I’m currently working on **ScholarSwiper (tinder like app that helps you find interships, scholarships + more; 500 beta testers)**
+  
+- 👨‍💻 Finishing up my summer 2025 internship @ OPP (Ontario Pronvincial Police), **leading development of a tool that is used by 5800 officers**
 
 - 👯 I have built cool stuff like EcoPlastic, deep-learning AI Android app for recycling **(1st place @ WUSA change engine, $3K)** or MarineMatch, AI for fish recognition **($6K+ in awards)**.
 
@@ -28,9 +30,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dev-katyal.netlify.app)
 
-- 💬 Ask me about **how to build apps from scratch in Android Studio**
-
-- ⚡ Fun fact **I got my pilots licence from being a Royal Canadian Air Cadet for 5 years**
+- ⚡ Fun fact : I love volunteering for ocean conservation, **worked previously with EarthEcho through their Marine Plastic Ambassador program**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
