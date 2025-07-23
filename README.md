@@ -22,8 +22,6 @@
 
 - 🔭 I’m currently working on **ScholarSwiper (tinder like app that helps you find interships, scholarships + more; 500 beta testers)**
 
-- 🌱 I’m currently learning **React and node.js**
-
 - 👯 I have built cool stuff like EcoPlastic, deep-learning AI Android app for recycling **(1st place @ WUSA change engine, $3K)** or MarineMatch, AI for fish recognition **($6K+ in awards)**.
 
 - 🤝 I’m looking for help with **Scaling apps to 10K users**
