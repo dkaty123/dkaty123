@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dev Katyal</h1>
-<h3 align="center">CS student @ UWaterloo; proficient in android development using Java and Kotlin</h3>
+<h3 align="center">CS student @ UWaterloo</h3>
+
+<img width="2008" height="1422" alt="image" src="https://github.com/user-attachments/assets/a712be6d-ec98-48db-97cf-54e9896c4d86" />
+
 
 ### Hi there! 👋
 
