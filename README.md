@@ -30,7 +30,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dev-katyal.netlify.app)
 
-- ⚡ Fun fact : I love volunteering for ocean conservation, **worked previously with EarthEcho through their Marine Plastic Ambassador program**
+- ⚡ Fun fact, I serve Canada on an international scale as **1 of 25 Marine Plastic Ambassadors across North America**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
