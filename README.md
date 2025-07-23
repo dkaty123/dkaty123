@@ -26,7 +26,7 @@
 
 - 👯 I have built cool stuff like EcoPlastic, deep-learning AI Android app for recycling **(1st place @ WUSA change engine, $3K)** or MarineMatch, AI for fish recognition **($6K+ in awards)**.
 
-- ⚡ Fun fact, I serve Canada on an international scale as **1 of 25 Marine Plastic Ambassadors across North America**
+- ⚡ In the summer of 2024, I finished an internship @ Health Canada shopping an app using **Java and Kotlin that has 10K downloads on the Google Play Store.**
 
 -  👨‍💻 All of my projects are available at [https://dev-katyal.netlify.app)
 
