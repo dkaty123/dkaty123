@@ -13,18 +13,18 @@
   "school" : "University of Waterloo",
   "program" : "computer science co-op",
   "job-searching" : true,
-  "prev-experience" : ["Health Canada, OceanWise"],
+  "prev-experience" : ["Health Canada, OPP"],
   "goal" : "to create software that helps the world"
 }
 ```
 
 ### What I'm Up To 
 
-- 🔭 I’m currently working on **EcoPlastic (app that prevents plastic pollution)**
+- 🔭 I’m currently working on **ScholarSwiper (tinder like app that helps you find interships, scholarships + more; 500 beta testers)**
 
 - 🌱 I’m currently learning **React and node.js**
 
-- 👯 I’m looking to collaborate on **Hackathons over the next few months**
+- 👯 I have built cool stuff like EcoPlastic, deep-learning AI Android app for recycling **(1st place @ WUSA change engine, $3K)** or MarineMatch, AI for fish recognition **($6K+ in awards)**.
 
 - 🤝 I’m looking for help with **Scaling apps to 10K users**
 
