@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **ScholarSwiper (tinder like app that helps you find interships, scholarships + more; 500 beta testers)**
   
-- 👨‍💻 Finishing up my summer 2025 internship @ OPP (Ontario Pronvincial Police), **leading development of a tool that is used by 5800 officers**
+- 👨‍💻 Finishing up my summer 2025 internship @ OPP (Ontario Provincial Police), **leading development of a tool that is used by 5800 officers**
 
 - 👯 I have built cool stuff like EcoPlastic, deep-learning AI Android app for recycling **(1st place @ WUSA change engine, $3K)** or MarineMatch, AI for fish recognition **($6K+ in awards)**.
 
