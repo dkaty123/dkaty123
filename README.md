@@ -28,7 +28,7 @@
 
 - ⚡ In the summer of 2024, I finished an internship @ Health Canada shipping an app using **Java and Kotlin that has 10K downloads on the Google Play Store.**
 
--  👨‍💻 All of my projects are available at [https://dev-katyal.netlify.app)
+- 🚀 All of my projects are available at [https://dev-katyal.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
