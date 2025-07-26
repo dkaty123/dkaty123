@@ -20,7 +20,7 @@
 
 ### What I'm Up To 
 
-- 🔭 I’m currently working on **ScholarSwiper (tinder like app that helps you find interships, scholarships + more; 500 beta testers)**
+- 🔭 I’m currently working on **ScholarSwiper (tinder like ios app that helps you find interships, scholarships + more; 500 beta testers)**
   
 - 👨‍💻 Finishing up my summer 2025 internship @ OPP (Ontario Provincial Police), **leading development of a tool that is used by 5800 officers**
 
