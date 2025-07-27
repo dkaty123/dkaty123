@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Katyal</h1>
 <h3 align="center">CS student @ UWaterloo</h3>
 
-<img width="2204" height="1412" alt="image" src="https://github.com/user-attachments/assets/94f9239f-19ad-47c2-b491-01b3616b9d9a" />
+<img width="2622" height="1494" alt="image" src="https://github.com/user-attachments/assets/13ea1a01-6890-430b-a327-3102649de2f9" />
 
 
 ### Hi there! 👋
