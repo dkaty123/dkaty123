@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Katyal</h1>
 <h3 align="center">CS student @ UWaterloo</h3>
 
-<img width="1896" height="1714" alt="image" src="https://github.com/user-attachments/assets/484a7b0e-a541-4a05-a3f1-b593955bc225" />
+<img width="1562" height="566" alt="image" src="https://github.com/user-attachments/assets/7dbb079d-16fe-4bdb-9d43-97e2778c2458" />
 
 
 ### About Me 
@@ -15,7 +15,10 @@
   "goal" : "to create software that helps the world"
 }
 ```
-<img width="1562" height="566" alt="image" src="https://github.com/user-attachments/assets/7dbb079d-16fe-4bdb-9d43-97e2778c2458" />
+
+
+<img width="1896" height="1714" alt="image" src="https://github.com/user-attachments/assets/484a7b0e-a541-4a05-a3f1-b593955bc225" />
+
 
 ### What I'm Up To 
 
